@@ -23,7 +23,7 @@
     top: 50%;
     left: 50%;
 
-    transform: translateY(-50%);
+    transform: translate(-50%, -50%);
     z-index: 1; /* Garantir que a imagem fique atrás do conteúdo V */
 
     width: 18.75rem;

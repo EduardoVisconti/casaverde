@@ -18,7 +18,7 @@
 .botao--alternativo {
     color: var(--amarelo);
 
-    background: unset; /* Transparente */
+    background-color: unset; /* Transparente */
 
     box-shadow: none;
 
