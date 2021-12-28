@@ -29,6 +29,6 @@
 }
 
 .input--email {
-    
+    border: none;
     background-image: url(../../img/icones/mail.svg);
 }
